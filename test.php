@@ -44,4 +44,9 @@ class Test extends TestCase
     {
         //TODO implement
     }
+	
+    public function method_four()
+    {
+        //TODO implement
+    }
 }
