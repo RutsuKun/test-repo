@@ -45,6 +45,9 @@ class Test extends TestCase
         //TODO implement
     }
 	
+    /**
+     * @test
+     */
     public function method_four()
     {
         //TODO implement
