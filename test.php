@@ -1,4 +1,3 @@
-
 <?php
  
 namespace Tests\Test;
@@ -39,7 +38,6 @@ class Test extends TestCase
      * @scenario test scenario
      * @case Get Test
      * @suite suite2
-     * @suite suite1
      * @test
      */
     public function method_three()
