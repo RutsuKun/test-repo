@@ -21,4 +21,16 @@ class Test extends TestCase
 	        //TODO implement
     }
 
+   
+
+    /**
+     * @feature test
+     * @scenario test scenario
+     * @case Get Test
+     * @test
+     */
+    public function test_two()
+    {
+        //TODO implement
     }
+}
