@@ -33,4 +33,17 @@ class Test extends TestCase
     {
         //TODO implement
     }
+
+    /**
+     * @feature test
+     * @scenario test scenario
+     * @case Get Test
+     * @suite suite2
+     * @suite suite1
+     * @test
+     */
+    public function method_three()
+    {
+        //TODO implement
+    }
 }
