@@ -11,4 +11,20 @@ class Testing
     {
 	        //TODO implement
     }
- }
+
+
+    /**
+     * @feature testing
+     * @scenario test scenario
+     * @case Get Test
+     * @feature testing2
+     * @scenario test scenario2
+     * @case Get Test2
+     * @suite nowy do testing
+     * @test
+     */
+    public function fqegqgqg()
+    {
+        //TODO implement
+    }
+}
