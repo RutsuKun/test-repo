@@ -78,11 +78,11 @@ class Test extends TestCase
     {
         //TODO implement
     }
-	
+
     /**
      * @test
      */
-    public function unmarked_test()
+    public function unmarked_test_edited()
     {
         //TODO implement
     }
