@@ -57,12 +57,13 @@ class Test extends TestCase
     }
 
     /**
-     * @feature super test
-     * @scenario test scenario 4
-     * @case Get Test 4
+     * @feature test
+     * @scenario test scenario
+     * @case Get Test
+     * @suite one
      * @test
      */
-    public function sgrsgsgshrsh()
+    public function method_six()
     {
         //TODO implement
     }
