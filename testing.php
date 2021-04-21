@@ -12,7 +12,6 @@ class Testing
 	        //TODO implement
     }
 
-
     /**
      * @feature testing
      * @scenario test scenario
@@ -23,7 +22,7 @@ class Testing
      * @suite nowy do testing
      * @test
      */
-    public function fqegqgqg()
+    public function nowa_nazwa()
     {
         //TODO implement
     }
