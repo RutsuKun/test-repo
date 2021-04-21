@@ -55,4 +55,15 @@ class Test extends TestCase
     {
         //TODO implement
     }
+
+    /**
+     * @feature super test
+     * @scenario test scenario 4
+     * @case Get Test 4
+     * @test
+     */
+    public function sgrsgsgshrsh()
+    {
+        //TODO implement
+    }
 }
