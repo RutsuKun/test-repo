@@ -67,4 +67,15 @@ class Test extends TestCase
     {
         //TODO implement
     }
+
+    /**
+     * @feature yeeeeeeeees
+     * @scenario nowy do yes
+     * @case taaaak yes
+     * @test
+     */
+    public function method_seven()
+    {
+        //TODO implement
+    }
 }
