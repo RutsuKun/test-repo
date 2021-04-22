@@ -86,4 +86,15 @@ class Test extends TestCase
     {
         //TODO implement
     }
+
+    /**
+     * @feature Enter
+     * @scenario Enter Click
+     * @case Click Success
+     * @test
+     */
+    public function enter_test()
+    {
+        //TODO implement
+    }
 }
