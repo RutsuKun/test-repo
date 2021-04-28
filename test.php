@@ -102,12 +102,15 @@ class Test extends TestCase
      * @feature Feature 1
      * @scenario Scenario 1
      * @case Case 1
+     * 
      * @feature Feature 2
      * @scenario Scenario 2
      * @case Case 2
+     * 
      * @feature Feature 3
      * @scenario Scenario 3
      * @case Case 3
+     * 
      * @suite cztery
      * @suite jeden
      * @suite trzy
