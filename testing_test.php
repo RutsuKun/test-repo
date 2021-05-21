@@ -30,4 +30,15 @@ class TestingTest
     {
         //TODO implement
     }
+
+    /**
+     * @feature Testing Test
+     * @scenario Testing Test Scenario 2
+     * @case Get Testing Test 4
+     * @test
+     */
+    public function testing_test_three()
+    {
+        //TODO implement
+    }
 }
