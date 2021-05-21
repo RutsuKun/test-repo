@@ -15,6 +15,9 @@ class TestingTest
      * @case Get Testing Test 3
      * 
      * @suite Get Testing Test 1
+     * @suite Get Testing Test 2
+     * @suite Get Testing Test 3
+     * @suite Get Testing Test 4
      * 
      * @test
      */
