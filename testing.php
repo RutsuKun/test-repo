@@ -1,10 +1,14 @@
 class Testing
 {
+
     /**
      * @feature Testing
      * @scenario Testing Scenario
      * @case Get Testing
-     * @suite: Get Testing
+     * 
+     * @suite Get Testing
+     * @suite cztery
+     * 
      * @test
      */
     public function testing()
