@@ -5,6 +5,7 @@ class TestingTwo
      * @scenario Testing Scenario two
      * @case Get Testing Two
      * @suite: Get Testing Two
+     * @description Testowy opis
      * @test
      */
     public function testing_two()
