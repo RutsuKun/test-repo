@@ -47,8 +47,9 @@ class Test extends TestCase
 
     /**
      * @feature Super Test
-     * @scenario Test Scenario 4
-     * @case Get Test 4
+     * @scenario Test Scenario 4ethehtehteh
+     * @case Get Test 4ehtehehthe
+     *
      * @test
      */
     public function method_four()
