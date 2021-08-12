@@ -49,6 +49,7 @@ class Test extends TestCase
      * @feature Super Test
      * @scenario Test Scenario 4
      * @case Get Test 4
+     *
      * @test
      */
     public function method_four()
@@ -88,9 +89,10 @@ class Test extends TestCase
     }
 
     /**
-     * @feature Enter
+     * @feature Super Test
      * @scenario Enter Click
      * @case Click Success
+     *
      * @test
      */
     public function enter_test()
@@ -99,17 +101,18 @@ class Test extends TestCase
     }
 
     /**
-     * @feature Feature 1-qwkfhjeqgfhjqejgqgqgre
-     * @scenario Scenario 1
-     * @case Case 1
-     *
      * @feature Feature 3
      * @scenario Scenario 3
      * @case Case 3
      *
-     * @feature Feature 2
+     * @feature Super Test
      * @scenario Scenario 2
      * @case Case 2
+     *
+     * @feature Super Test
+     * @scenario Scenario 1
+     * @case Case 1
+     *
      *
      * 
      * @suite cztery
