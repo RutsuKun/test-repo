@@ -23,7 +23,7 @@ class SuperTestsWithDataProviders extends TestCase
     }
 	
     /**
-     * @feature superTestWwithDataProvider
+     * @feature superTestWwithDataProviderWithError
      * @scenario yaaaaaaaaaaaaaaaaa
      * @case yooooooooooooooooo
      * @suite: yeeeeeeeeeeeeeee
