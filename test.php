@@ -91,8 +91,8 @@ class Test extends TestCase
     /**
      * @feature Enter
      * @scenario Enter Click
-     * @case Click Success
-     * 
+     * @case Click Success12345678
+     *
      * @suite wrfgrg2gr2g
      * 
      * @test
