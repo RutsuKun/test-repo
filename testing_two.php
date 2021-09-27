@@ -16,7 +16,7 @@ class TestingTwo
     /**
      * @feature Enter
      * @scenario Enter Click
-     * @case Case 1ef2f2f2faaaergegr3gr3
+     * @case Case 1
      *
      * @description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend nec ante sit
      * amet sodales. Praesent in scelerisque urna. Praesent sit amet nisi nisi.
