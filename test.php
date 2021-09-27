@@ -92,8 +92,9 @@ class Test extends TestCase
      * @feature Enter
      * @scenario Enter Click
      * @case Click Success
-     *
-     *
+     * 
+     * @suite wrfgrg2gr2g
+     * 
      * @test
      */
     public function enter_test()
