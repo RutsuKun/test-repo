@@ -20,12 +20,11 @@ class Test extends TestCase
 	        //TODO implement
     }
 
-   
-
     /**
-     * @feature test
+     * @feature test123
      * @scenario test scenario
      * @case Get Test
+     *
      * @test
      */
     public function test_two()
@@ -34,9 +33,10 @@ class Test extends TestCase
     }
 
     /**
-     * @feature test
+     * @feature test123
      * @scenario test scenario
      * @case Get Test
+     *
      * @suite suite2
      * @test
      */
@@ -58,9 +58,10 @@ class Test extends TestCase
     }
 
     /**
-     * @feature test
+     * @feature test123
      * @scenario test scenario
      * @case Get Test
+     *
      * @suite one
      * @test
      */
