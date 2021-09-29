@@ -118,7 +118,6 @@ class Test extends TestCase
      * 
      * @suite cztery
      * @suite jeden
-     * @suite trzy
      * @suite dwa
      * 
      * @test
