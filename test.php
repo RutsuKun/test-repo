@@ -107,19 +107,18 @@ class Test extends TestCase
      * @feature Feature 3-edited
      * @scenario Scenario 3-edited
      * @case Case 3-edited
-     * 
+     *
      * @feature Feature 2-edited
      * @scenario Scenario 2-edited
      * @case Case 2-edited
-     * 
+     *
      * @feature Feature 1-edited
      * @scenario Scenario 1-edited
      * @case Case 1-edited
-     * 
+     *
      * @suite jeden-edited
      * @suite cztery-edited
      * @suite dwa-edited
-     * 
      * @test
      */
     public function aaaaaaaaaaaaaaaa()
