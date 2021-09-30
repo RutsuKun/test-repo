@@ -14,9 +14,9 @@ class TestingTwo
     }
 
     /**
-     * @feature Enterek
-     * @scenario Enter Clicked
-     * @case Case 1 edited
+     * @feature Enterekkkkk
+     * @scenario Enter Clickedkkk
+     * @case Case 1 editedkkk
      *
      * @suite new suite
      * @description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend nec ante sit
@@ -25,11 +25,9 @@ class TestingTwo
      * imperdiet, ipsum nisl aliquam quam, at dignissim nulla risus ut sem.
      * Proin aliquet quis erat vel pulvinar. Quisque sodales diam et ultricies
      * porta. Sed pharetra varius pulvinar. Vestibulum vulputate mollis libero,
-     * id tincidunt turpis volutpat vitae.
-     * 
-     * Sed ac mauris tempus, tristique risus
-     * eget, feugiat nibh. Donec faucibus nulla ac magna varius consectetur.
-     * Curabitur id eros at dolor dignissim posuere vitae et dolor. Donec vehicula
+     * id tincidunt turpis volutpat vitae. Sed ac mauris tempus, tristique risus
+     * eget, feugiat nibh. Donec faucibus nulla ac magna varius consectetur. Curabitur
+     * id eros at dolor dignissim posuere vitae et dolor. Donec vehicula
      * quis massa quis placerat. Maecenas at urna vitae est viverra vestibulum
      * interdum id odio. Ut laoreet vehicula justo a porta. Suspendisse venenatis
      * erat justo, vitae imperdiet lacus tincidunt volutpat. Curabitur sollicitudin
@@ -37,7 +35,6 @@ class TestingTwo
      * eu gravida elit aliquam at. Curabitur laoreet vehicula justo, sed vulputate
      * est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
      * posuere cubilia curae; Fusce malesuada sodales lacus sit amet tristique.
-     * 
      * @test
      */
     public function teeeeeeeeeeeeeeeeeeeeeeeestts()

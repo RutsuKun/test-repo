@@ -95,7 +95,7 @@ class Test extends TestCase
      * @case Click Success
      *
      * @suite wrfgrg2gr2g
-     * @description aaaa
+     * @description aaaaaa
      * @test
      */
     public function enter_test()
