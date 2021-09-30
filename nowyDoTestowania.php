@@ -6,13 +6,13 @@ use Tests\TestCase;
 class SuperTestsWithDataProviders extends TestCase
 {
 
- 
     /**
      * @feature superTestWwithDataProvider
      * @scenario yaaaaaaaaaaaaaaaaa
      * @case yooooooooooooooooo
-     * @suite: yeeeeeeeeeeeeeee
      *
+     * @suite yeeeeeeeeeeeeeee
+     * @description super test
      * @test
      * @dataProvider testDataProvider
      * @dataProvider testDataProviderSecond
@@ -21,7 +21,7 @@ class SuperTestsWithDataProviders extends TestCase
     {
       // TODO implement
     }
-	
+
     /**
      * @feature superTestWwithDataProviderWithError
      * @scenario yaaaaaaaaaaaaaaaaa
