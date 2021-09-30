@@ -90,7 +90,7 @@ class Test extends TestCase
     }
 
     /**
-     * @feature Enter
+     * @feature Enterek
      * @scenario Enter Click
      * @case Click Success
      *

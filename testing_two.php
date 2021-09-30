@@ -14,7 +14,7 @@ class TestingTwo
     }
 
     /**
-     * @feature Enter
+     * @feature Enterek
      * @scenario Enter Click
      * @case Case 1 edited
      *
