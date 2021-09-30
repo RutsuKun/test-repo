@@ -14,9 +14,9 @@ class TestingTwo
     }
 
     /**
-     * @feature Enter edited
-     * @scenario Enter Click edited
-     * @case Case 1 edited
+     * @feature Enter
+     * @scenario Enter Click
+     * @case Case 1
      *
      * @suite new suite
      * @description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend nec ante sit
