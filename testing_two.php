@@ -14,10 +14,11 @@ class TestingTwo
     }
 
     /**
-     * @feature Enter
-     * @scenario Enter Click
-     * @case Case 1
+     * @feature Enter edited
+     * @scenario Enter Click edited
+     * @case Case 1 edited
      *
+     * @suite new suite
      * @description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eleifend nec ante sit
      * amet sodales. Praesent in scelerisque urna. Praesent sit amet nisi nisi.
      * Morbi sodales quis felis in pretium. Nam scelerisque, dolor eleifend mattis
