@@ -15,7 +15,7 @@ class TestingTwo
 
     /**
      * @feature Enterek
-     * @scenario Enter Click
+     * @scenario Enter Clicked
      * @case Case 1 edited
      *
      * @suite new suite

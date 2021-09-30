@@ -91,7 +91,7 @@ class Test extends TestCase
 
     /**
      * @feature Enterek
-     * @scenario Enter Click
+     * @scenario Enter Clicked
      * @case Click Success
      *
      * @suite wrfgrg2gr2g
