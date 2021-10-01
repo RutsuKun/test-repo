@@ -104,21 +104,22 @@ class Test extends TestCase
     }
 
     /**
-     * @feature Feature 3-edited
-     * @scenario Scenario 3-edited
-     * @case Case 3-edited
+     * @feature Feature 3-editedddd
+     * @scenario Scenario 3-editedddd
+     * @case Case 3-editedddd
      *
-     * @feature Feature 2-edited
-     * @scenario Scenario 2-edited
-     * @case Case 2-edited
+     * @feature Feature 2-editedddd
+     * @scenario Scenario 2-editedddd
+     * @case Case 2-editedddd
      *
-     * @feature Feature 1-edited
-     * @scenario Scenario 1-edited
-     * @case Case 1-edited
+     * @feature Feature 1-editeddddd
+     * @scenario Scenario 1-editedddd
+     * @case Case 1-editeddddd
      *
      * @suite jeden-edited
      * @suite cztery-edited
      * @suite dwa-edited
+     * @description eeee
      * @test
      */
     public function aaaaaaaaaaaaaaaa()
