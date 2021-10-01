@@ -93,12 +93,14 @@ class Test extends TestCase
      * @feature Enterek
      * @scenario Enter Clicked
      * @case Click Success
-     *
+     * 
      * @suite wrfgrg2gr2g
+     * 
      * @description aaaaaaaa
+     * 
      * @test
      */
-    public function enter_test()
+    public function enter_testw4tt
     {
         //TODO implement
     }
