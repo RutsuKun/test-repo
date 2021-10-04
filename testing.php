@@ -11,7 +11,7 @@ class Testing
      * 
      * @test
      */
-    public function testing()
+    public function testing_test()
     {
 	        //TODO implement
     }
