@@ -26,7 +26,6 @@ class Testing
      * @case Get Test2
      *
      * @suite nowy do testing
-     * @description test description edited in append fsc
      * @test
      */
     public function nowa_nazwa()
