@@ -2,10 +2,10 @@ class Testing
 {
 
     /**
-     * @feature Testing
+     * @feature superTestWwithDataProvider edited
      * @scenario Testing Scenario
      * @case Get Testing
-     * 
+     *
      * @suite Get Testing
      * @suite cztery
      * 
@@ -17,11 +17,11 @@ class Testing
     }
 
     /**
-     * @feature testing-edited
+     * @feature superTestWwithDataProvider edited
      * @scenario test scenario
      * @case Get Test
      *
-     * @feature testing2
+     * @feature superTestWwithDataProvider edited
      * @scenario test scenario2
      * @case Get Test2
      *
