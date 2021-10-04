@@ -5,15 +5,9 @@ class Testing
      * @feature Testing
      * @scenario Testing Scenario
      * @case Get Testing
-     *
-     * @feature aaaaaaaaaaaaaaaaaaaa
-     * @scenario bbbbbbbbbbbbbbbbb
-     * @case cccccccccccccccc
-     *
+     * 
      * @suite cztery
      * @suite get testing
-     * @suite aaaa
-     * @description add desc
      * @test
      */
     public function testing()
