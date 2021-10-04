@@ -24,6 +24,9 @@ class Testing
      * @scenario test scenario2
      * @case Get Test2
      * @suite nowy do testing
+     * 
+     * @description test description
+     * 
      * @test
      */
     public function nowa_nazwa()
