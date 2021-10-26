@@ -57,6 +57,7 @@ class SuperTestsWithDataProviders extends TestCase
             'test 6' => ['one' => 'THREE', 'two' => 3],
             'test 7' => ['one' => 'THREE', 'two' => 3],
             'test 88' => ['one' => 'SEVEN', 'two' => 7],
+            'teeeeest' => ['one' => 'aaaaaaaaaaaaaa', 'two' => 'bbbbbbbbbbbbbbb'],
         ];
     }
     public function testDataProviderWithError()
