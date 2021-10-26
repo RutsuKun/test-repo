@@ -56,7 +56,7 @@ class SuperTestsWithDataProviders extends TestCase
             'test 55' => ['one' => '1', 'two' => 1],
             'test 6' => ['one' => 'THREE', 'two' => 3],
             'test 7' => ['one' => 'THREE', 'two' => 3],
-            'test 88' => ['one' => 'SEVEN', 'two' => 7],
+            'test 88 vs s' => ['one' => 'SEVEN', 'two' => 7],
             'teeeeest_edited' => ['one' => 'aaaaaaaaaaaaaa11', 'two' => 'bbbbbbbbbbbbbbb22'],
         ];
     }
