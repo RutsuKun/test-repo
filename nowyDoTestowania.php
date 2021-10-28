@@ -48,7 +48,6 @@ class SuperTestsWithDataProviders extends TestCase
             'test 2' => ['one' => 'THREE', 'two' => 3],
             'test 3' => ['one' => 'THREE', 'two' => 3],
             'test 4' => ['one' => 'SEVEN', 'two' => 7],
-            'kamil set' => ['one' => 'test', 'two' => true],
         ];
     }
     public function testDataProviderSecond()
