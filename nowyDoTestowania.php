@@ -49,6 +49,7 @@ class SuperTestsWithDataProviders extends TestCase
             'test 3' => ['one' => 'THREE', 'two' => 3],
             'test 4' => ['one' => 'SEVEN', 'two' => 7],
             'dodaje nowy - edit' => ['one' => 'test1', 'two' => 'test2'],
+            'dodaje nowy - edit2' => ['one' => 'test2', 'two' => 'test3'],
         ];
     }
     public function testDataProviderSecond()
