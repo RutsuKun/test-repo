@@ -9,12 +9,12 @@ class SuperTestsWithDataProviders extends TestCase
     /**
      * @feature superTestWwithDataProvider edited
      * @scenario yaaaaaaaaaaaaaaaaa edited
-     * @case yooooooooooooooooo edited
-     * 
+     * @case yoooooooooooooooo
+     *
      * @feature svwrgwgwgwgwgrwg
      * @scenario wrgrwgrwgrwgrwgrwg
      * @case wrgrwgrwgrwgrwgrwg
-     * 
+     *
      * @suite egegrgwgwrgrwg
      * @suite yeeeeeeeeeeeeeee
      * @description super test weffqg
