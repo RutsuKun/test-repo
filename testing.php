@@ -36,6 +36,8 @@ class Testing
      * @feature aaabbbccc
      * @scenario dddeeefff
      * @case ggghhhiii
+     *
+     * @suite ssssssssssssssuite
      * @test
      */
     public function aaaabbbbcccc() {
