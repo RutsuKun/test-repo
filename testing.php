@@ -33,7 +33,7 @@ class Testing
     }
 
     /** @test */
-    public aaaabbbbcccc() {
+    public function aaaabbbbcccc() {
         //TODO implement
     }
 }
