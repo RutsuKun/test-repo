@@ -31,4 +31,9 @@ class Testing
     {
         //TODO implement
     }
+
+    /** @test */
+    public aaaabbbbcccc() {
+        //TODO implement
+    }
 }
