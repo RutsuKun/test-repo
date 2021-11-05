@@ -22,7 +22,7 @@ class SuperTestsWithDataProviders extends TestCase
      * @dataProvider testDataProvider
      * @dataProvider testDataProviderSecond
      */
-    public function superTestWwithDataProvideehtehr(String $one, Integer $expected)
+    public function superTestWwithDataProvide(String $one, Integer $expected)
     {
       // TODO implement
     }
