@@ -32,7 +32,12 @@ class Testing
         //TODO implement
     }
 
-    /** @test */
+    /**
+     * @feature aaabbbccc
+     * @scenario dddeeefff
+     * @case ggghhhiii
+     * @test
+     */
     public function aaaabbbbcccc() {
         //TODO implement
     }
