@@ -40,7 +40,7 @@ class Testing
      * @suite ssssssssssssssuite
      * @test
      */
-    public function aaaabbbbccccddd()
+    public function aaaabbbbcccc()
     {
         //TODO implement
     }
