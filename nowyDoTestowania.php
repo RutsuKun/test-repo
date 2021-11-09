@@ -29,8 +29,9 @@ class SuperTestsWithDataProviders extends TestCase
 
     /**
      * @feature superTestWwithDataProviderWithError
-     * @scenario yaaaaaaaaaaaaaaaaa
+     * @scenario yaaaaaaaaaaaaaaaaa edited 2
      * @case yooooooooooooooooo
+     *
      * @suite: yeeeeeeeeeeeeeee
      *
      * @test
@@ -40,7 +41,7 @@ class SuperTestsWithDataProviders extends TestCase
     {
       // TODO implement
     }
-	
+
     public function testDataProvider()
     {
         return [
