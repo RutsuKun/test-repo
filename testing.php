@@ -33,10 +33,10 @@ class Testing
     }
 
     /**
-     * @feature aaabbbccc-editedddd
+     * @feature aaabbbccc-editeddddaaaa
      * @scenario dddeeefff
      * @case ggghhhiiirgrgrwgg
-     * 
+     *
      * @suite ssssssssssssssuite
      * @test
      */
