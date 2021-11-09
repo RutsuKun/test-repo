@@ -34,7 +34,7 @@ class Testing
 
     /**
      * @feature aaabbbccc-editeddddaaaa
-     * @scenario dddeeefffaaaaaaaaa
+     * @scenario edited-abc
      * @case ggghhhiiirgrgrwgg
      *
      * @suite ssssssssssssssuite
