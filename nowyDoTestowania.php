@@ -8,12 +8,12 @@ class SuperTestsWithDataProviders extends TestCase
 
     /**
      * @feature superTestWwithDataProvider edited
-     * @scenario yaaaaaaaaaaaaaaaaa edited
-     * @case yoooooooooooooooo dgwrgwrgrggr
+     * @scenario wrgrwgrwgrwgrwgrwg-edited
+     * @case wrgrwgrwgrwgrwgrwg
      *
      * @feature superTestWwithDataProvider edited
-     * @scenario wrgrwgrwgrwgrwgrwg
-     * @case wrgrwgrwgrwgrwgrwg
+     * @scenario yaaaaaaaaaaaaaaaaa edited
+     * @case yoooooooooooooooo dgwrgwrgrggr
      *
      * @suite egegrgwgwrgrwg
      * @suite yeeeeeeeeeeeeeee
@@ -29,7 +29,7 @@ class SuperTestsWithDataProviders extends TestCase
 
     /**
      * @feature superTestWwithDataProvider edited
-     * @scenario yaaaaaaaaaaaaaaaaa
+     * @scenario yaaaaaaaaaaaaaaaaa-edited
      * @case yooooooooooooooooo
      *
      * @suite: yeeeeeeeeeeeeeee
