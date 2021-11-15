@@ -2,17 +2,17 @@ class TestingTest
 {
 
     /**
-     * @feature testing2
+     * @feature Testing Test changed
      * @scenario Testing Test Scenario 1
      * @case Get Testing Test 3
      *
-     * @feature testing2
-     * @scenario Testing Test Scenario 1
-     * @case Get Testing Test 1
-     *
-     * @feature testing2
+     * @feature Testing Test changed
      * @scenario Testing Test Scenario 1
      * @case Get Testing Test 2
+     *
+     * @feature Testing Test changed
+     * @scenario Testing Test Scenario 1
+     * @case Get Testing Test 1
      *
      * @suite Get Testing Test 1
      * @suite Get Testing Test 2
