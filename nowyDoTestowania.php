@@ -10,11 +10,11 @@ class SuperTestsWithDataProviders extends TestCase
      * @feature Feature with data providers
      * @scenario yaaaaaaaaaaaaaaaaa edited
      * @case yoooooooooooooooo dgwrgwrgrggr
-     *
+     * 
      * @feature Feature with data providers
      * @scenario 1 scenario with data providers
      * @case 1 case with data provider
-     *
+     * 
      * @suite egegrgwgwrgrwg
      * @suite yeeeeeeeeeeeeeee
      * @description super test weffqg
@@ -22,7 +22,7 @@ class SuperTestsWithDataProviders extends TestCase
      * @dataProvider testDataProvider
      * @dataProvider testDataProviderSecond
      */
-    public function superTestWwithDataProvide(String $one, Integer $expected)
+    public function testWithDataProviders(String $one, Integer $expected)
     {
       // TODO implement
     }
