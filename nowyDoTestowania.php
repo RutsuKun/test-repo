@@ -19,8 +19,8 @@ class SuperTestsWithDataProviders extends TestCase
      * @suite yeeeeeeeeeeeeeee
      * @description super test weffqg
      * @test
-     * @dataProvider testDataProvider
-     * @dataProvider testDataProviderSecond
+     * @dataProvider dataProvider
+     * @dataProvider dataProviderSecond
      */
     public function testWithDataProviders(String $one, Integer $expected)
     {
@@ -35,14 +35,14 @@ class SuperTestsWithDataProviders extends TestCase
      * @suite: yeeeeeeeeeeeeeee
      *
      * @test
-     * @dataProvider testDataProviderWithError
+     * @dataProvider dataProviderWithError
      */
     public function superTestWwithDataProviderWithError(String $one, Integer $two)
     {
       // TODO implement
     }
 
-    public function testDataProvider()
+    public function dataProvider()
     {
         return [
             'test 1' => ['one' => 'ONE', 'two' => 1],
@@ -53,7 +53,7 @@ class SuperTestsWithDataProviders extends TestCase
             'dataset z obiektem' => ['one' => [ 'one' => 'ONE', 'two' => 1 ], 'two' => [ 'one' => 'ONE', 'two' => 1 ]]
         ];
     }
-    public function testDataProviderSecond()
+    public function dataProviderSecond()
     {
         return [
             'test 7' => ['one' => 'THREE', 'two' => 3],
@@ -63,7 +63,7 @@ class SuperTestsWithDataProviders extends TestCase
             'test aaa' => ['one' => 'aaaaa', 'two' => 'aaaaaaaa'],
         ];
     }
-    public function testDataProviderWithError()
+    public function dataProviderWithError()
     {
         return [
             'test 5' => [ 'one' => 'ONE', 'two' => ],
