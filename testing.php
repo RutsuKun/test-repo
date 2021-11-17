@@ -60,19 +60,27 @@ class Testing
      *
      * @feature 111
      * @scenario 222
-     * @case b
+     * @case ddddd
+     *
+     * @feature 111
+     * @scenario 222
+     * @case ddddd
      *
      * @feature 111
      * @scenario 222
      * @case c
      *
      * @feature 111
-     * @scenario 555
-     * @case d
+     * @scenario 222
+     * @case b
      *
      * @feature 111
      * @scenario 222
      * @case e
+     *
+     * @feature 111
+     * @scenario 555
+     * @case d
      *
      * @feature 111
      * @scenario 555
