@@ -4,15 +4,23 @@ class Testing
     /**
      * @feature Testing Feature
      * @scenario Testing Scenario
-     * @case Get Testing
+     * @case a
      *
      * @feature Testing Feature
      * @scenario Testing Scenario
-     * @case a
+     * @case Get Testing
      *
      * @feature TestujeNowyFiczer
      * @scenario ScenariuszNowegoFiczera
      * @case KejsScenariuszaNowegoFiczera
+     *
+     * @feature ABC-TEST
+     * @scenario TEST
+     * @case TEST123
+     *
+     * @feature ABC-TEST
+     * @scenario TEMPORARY
+     * @case TEST456
      *
      * @suite cztery
      * @suite tet testing
