@@ -6,8 +6,17 @@ class Testing
      * @scenario Testing Scenario
      * @case Get Testing
      *
-     * @suite Tet Testing
-     * @suite Cztery
+     * @feature Testing Feature
+     * @scenario Testing Scenario
+     * @case a
+     *
+     * @feature TestujeNowyFiczer
+     * @scenario ScenariuszNowegoFiczera
+     * @case KejsScenariuszaNowegoFiczera
+     *
+     * @suite cztery
+     * @suite tet testing
+     * @description musi dzialac
      * @test
      */
     public function testing()
