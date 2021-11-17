@@ -54,6 +54,34 @@ class Testing
      * @scenario edited-abc
      * @case aaa-case-edited
      *
+     * @feature 111
+     * @scenario 222
+     * @case a
+     *
+     * @feature 111
+     * @scenario 222
+     * @case b
+     *
+     * @feature 111
+     * @scenario 222
+     * @case c
+     *
+     * @feature 111
+     * @scenario 555
+     * @case d
+     *
+     * @feature 111
+     * @scenario 222
+     * @case e
+     *
+     * @feature 111
+     * @scenario 555
+     * @case f
+     *
+     * @feature 111
+     * @scenario 555
+     * @case g
+     *
      * @suite ssssssssssssssuite
      * @test
      */
