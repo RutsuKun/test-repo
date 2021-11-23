@@ -55,28 +55,8 @@ class Testing
      * @case aaa-case-edited
      *
      * @feature 111
-     * @scenario 222
-     * @case a
-     *
-     * @feature 111
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature 111
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature 111
-     * @scenario 222
-     * @case c
-     *
-     * @feature 111
-     * @scenario 222
-     * @case b
-     *
-     * @feature 111
-     * @scenario 222
-     * @case e
+     * @scenario 555
+     * @case g
      *
      * @feature 111
      * @scenario 555
@@ -87,8 +67,28 @@ class Testing
      * @case f
      *
      * @feature 111
-     * @scenario 555
-     * @case g
+     * @scenario @222
+     * @case b
+     *
+     * @feature 111
+     * @scenario @222
+     * @case a
+     *
+     * @feature 111
+     * @scenario @222
+     * @case e
+     *
+     * @feature 111
+     * @scenario @222
+     * @case c
+     *
+     * @feature 111
+     * @scenario @222
+     * @case ddddd
+     *
+     * @feature 111
+     * @scenario @222
+     * @case ddddd
      *
      * @suite ssssssssssssssuite
      * @test
