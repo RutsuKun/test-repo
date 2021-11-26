@@ -44,4 +44,23 @@ class TestingTest
     {
         //TODO implement
     }
+
+    /**
+     * @feature 1111
+     * @scenario 2222
+     * @case 3333
+     *
+     * @description 4444
+     * @test
+     */
+    public function aaavvvccceee()
+    {
+        //TODO UnitTree template
+        //GIVEN
+
+        //WHEN
+
+        //THEN
+
+    }
 }
