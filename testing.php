@@ -97,4 +97,23 @@ class Testing
     {
         //TODO implement
     }
+
+    /**
+     * @feature 111
+     * @scenario 222
+     * @case 333
+     *
+     * @description 444
+     * @test
+     */
+    public function nowa_nazwa_metody()
+    {
+        //TODO UnitTree template
+        //GIVEN
+
+        //WHEN
+
+        //THEN
+
+    }
 }
