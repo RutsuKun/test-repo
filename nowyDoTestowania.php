@@ -49,8 +49,9 @@ class SuperTestsWithDataProviders extends TestCase
      * @scenario yaaaaaaaaaaaaaaaaa-edited
      * @case yooooooooooooooooo
      *
-     * @suite: yeeeeeeeeeeeeeee
-     *
+     * @suite yeeeeeeeeeeeeeee
+     * @expectation nothing
+     * @description idk
      * @test
      * @dataProvider dataProviderWithError
      */
