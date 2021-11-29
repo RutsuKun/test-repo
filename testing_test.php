@@ -65,7 +65,7 @@ class TestingTest
     }
 
     /**
-     * @feature 11111111123
+     * @feature 111
      * @scenario 123414314
      * @case 345345643
      *
