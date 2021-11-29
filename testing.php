@@ -103,6 +103,8 @@ class Testing
      * @scenario 222
      * @case 333
      *
+     * @expectation Expectation details here
+     *
      * @description 444
      * @test
      */
