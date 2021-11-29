@@ -33,7 +33,9 @@ class SuperTestsWithDataProviders extends TestCase
      *
      * @suite egegrgwgwrgrwg
      * @suite yeeeeeeeeeeeeeee
-     * @expectation i dont know, we'll see, something must surely return, EDITED IN APPEND FSC
+     * @expectation i dont know, we'll see, something must surely return, EDITED IN APPEND FSC, another
+     * edit and new line
+     *
      * @description super test weffqg
      * @test
      * @dataProvider dataProvider
