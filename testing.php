@@ -2,25 +2,25 @@ class Testing
 {
 
     /**
-     * @feature Testing Feature
-     * @scenario Testing Scenario
-     * @case a
+     * @feature TestujeNowyFiczer
+     * @scenario ScenariuszNowegoFiczera
+     * @case KejsScenariuszaNowegoFiczera
+     *
+     * @feature ABC-TEST-DEF
+     * @scenario TEMPORARY
+     * @case TEST456
+     *
+     * @feature ABC-TEST-DEF
+     * @scenario TEST
+     * @case TEST123
      *
      * @feature Testing Feature
      * @scenario Testing Scenario
      * @case Get Testing
      *
-     * @feature TestujeNowyFiczer
-     * @scenario ScenariuszNowegoFiczera
-     * @case KejsScenariuszaNowegoFiczera
-     *
-     * @feature ABC-TEST
-     * @scenario TEST
-     * @case TEST123
-     *
-     * @feature ABC-TEST
-     * @scenario TEMPORARY
-     * @case TEST456
+     * @feature Testing Feature
+     * @scenario Testing Scenario
+     * @case a
      *
      * @suite cztery
      * @suite tet testing
