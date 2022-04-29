@@ -69,7 +69,7 @@ class TestingTest
      * @scenario 123414314
      * @case 345345643
      *
-     * @expectation nowe expectation
+     * @expectation stare expectation
      *
      * @description i nie
      *
