@@ -69,6 +69,7 @@ class TestingTest
      * @scenario 123414314
      * @case 345345643
      *
+     * @suite suite templatka
      * @expectation stare expectation
      *
      * @description i nie
