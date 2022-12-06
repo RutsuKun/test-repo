@@ -27,6 +27,10 @@ class TestingTest
     }
 
     /**
+     * @feature teraz oznaczony
+     * @scenario dwa
+     * @case trzy
+     *
      * @test
      */
     public function testing_test_two()
