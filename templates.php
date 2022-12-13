@@ -44,4 +44,26 @@
         //THEN
 
     }
+
+    /**
+     * @feature nowiutki
+     * @scenario scenario
+     * @case case
+     *
+     * @expectation nie ma
+     *
+     * @description nie wazne
+     *
+     * @test
+     */
+    public function _1670925519_user_AT_user_com()
+    {
+        //TODO UniTree template
+        //GIVEN
+
+        //WHEN
+
+        //THEN
+
+    }
 }
