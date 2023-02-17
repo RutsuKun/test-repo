@@ -50,7 +50,7 @@ class TestingTest
     }
 
     /**
-     * @feature 1112222
+     * @feature aaa
      * @scenario 2222
      * @case 3333
      *
@@ -69,7 +69,7 @@ class TestingTest
     }
 
     /**
-     * @feature 1112222
+     * @feature aaa
      * @scenario 123414314
      * @case 345345643
      *
@@ -92,7 +92,7 @@ class TestingTest
     }
 
     /**
-     * @feature 1112222
+     * @feature aaa
      * @scenario 222
      * @case 333
      *
