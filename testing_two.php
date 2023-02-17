@@ -17,7 +17,7 @@ class TestingTwo
      * @suite new suite
      * @test
      */
-    public function enter_teser
+    public function enter_teser()
     {
         //TODO implement
     }
