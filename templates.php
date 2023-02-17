@@ -46,7 +46,7 @@
     }
 
     /**
-     * @feature nowiutki
+     * @feature aaa
      * @scenario scenario
      * @case case
      *

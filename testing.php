@@ -52,9 +52,29 @@ class Testing
     }
 
     /**
-     * @feature aaa-edited-again
-     * @scenario edited-abc
-     * @case aaa-case-edited
+     * @feature aaa
+     * @scenario 222
+     * @case e
+     *
+     * @feature aaa
+     * @scenario 222
+     * @case a
+     *
+     * @feature aaa
+     * @scenario 222
+     * @case c
+     *
+     * @feature aaa
+     * @scenario 222
+     * @case ddddd
+     *
+     * @feature aaa
+     * @scenario 222
+     * @case ddddd
+     *
+     * @feature aaa
+     * @scenario 222
+     * @case b
      *
      * @feature aaa
      * @scenario 555
@@ -69,28 +89,8 @@ class Testing
      * @case g
      *
      * @feature aaa
-     * @scenario 222
-     * @case c
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case a
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case e
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case b
+     * @scenario edited-abc
+     * @case aaa-case-edited
      *
      * @suite ssssssssssssssuite
      * @test
