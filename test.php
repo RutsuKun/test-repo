@@ -100,7 +100,7 @@ class Test extends TestCase
      * 
      * @test
      */
-    public function enter_testw4tt
+    public function enter_testw4tt()
     {
         //TODO implement
     }
