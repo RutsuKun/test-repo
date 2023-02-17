@@ -50,6 +50,7 @@
      * @scenario scenario
      * @case case
      *
+     * @suite new suite
      * @expectation nie ma
      *
      * @description nie wazne
