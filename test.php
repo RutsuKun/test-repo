@@ -128,4 +128,28 @@ class Test extends TestCase
     {
         //TODO implement
     }
+
+    /**
+     * @feature aaa
+     * @scenario scenario
+     * @case case2
+     *
+     * @suite wrgrwgrwg
+     * @suite wrgrwgrw
+     * @expectation wrgwrgrwg
+     *
+     * @description rwgrwgwrgrwg
+     *
+     * @test
+     */
+    public function dodaje_nowa_metode()
+    {
+        //TODO UniTree template
+        //GIVEN
+
+        //WHEN
+
+        //THEN
+
+    }
 }
