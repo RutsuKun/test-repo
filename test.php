@@ -7,11 +7,11 @@ use Tests\TestCase;
 class Test extends TestCase
 {
 
- 
     /**
-     * @feature Test
+     * @feature Test-edited
      * @scenario Test Scenario
      * @case Get Test
+     *
      * @suite: Get Test
      * @test
      */
@@ -21,7 +21,7 @@ class Test extends TestCase
     }
 
     /**
-     * @feature test123
+     * @feature test123-edited
      * @scenario test scenario
      * @case Get Test
      *
@@ -33,7 +33,7 @@ class Test extends TestCase
     }
 
     /**
-     * @feature test123
+     * @feature test123-edited
      * @scenario test scenario
      * @case Get Test
      *
@@ -46,7 +46,7 @@ class Test extends TestCase
     }
 
     /**
-     * @feature Super Test
+     * @feature Super Test-edited
      * @scenario Test Scenario 4
      * @case Get Test 4ehtehehthe
      *
@@ -58,7 +58,7 @@ class Test extends TestCase
     }
 
     /**
-     * @feature test123
+     * @feature test123-edited
      * @scenario test scenario
      * @case Get Test
      *
@@ -71,9 +71,10 @@ class Test extends TestCase
     }
 
     /**
-     * @feature yeeeeeeeees
+     * @feature yeeeeeeeees-edited
      * @scenario nowy do yes
      * @case taaaak yes
+     *
      * @test
      */
     public function method_seven()
@@ -90,10 +91,10 @@ class Test extends TestCase
     }
 
     /**
-     * @feature Enterek
+     * @feature Enterek-edited
      * @scenario Enter Clicked
      * @case Click Success
-     * 
+     *
      * @suite wrfgrg2gr2g
      * 
      * @description aaaaaaaa
@@ -106,17 +107,17 @@ class Test extends TestCase
     }
 
     /**
-     * @feature Feature 2
-     * @scenario Scenario 2
-     * @case Case 2-editedddd
+     * @feature Feature 1-edited
+     * @scenario Scenario 1
+     * @case Case 1-editeddddd
      *
-     * @feature Feature 3
+     * @feature Feature 3-edited
      * @scenario Scenario 3
      * @case Case 3-editedddd
      *
-     * @feature Feature 1
-     * @scenario Scenario 1
-     * @case Case 1-editeddddd
+     * @feature Feature 2-edited
+     * @scenario Scenario 2
+     * @case Case 2-editedddd
      *
      * @suite jeden-edited
      * @suite cztery-edited
@@ -130,7 +131,7 @@ class Test extends TestCase
     }
 
     /**
-     * @feature aaa
+     * @feature aaa-edited
      * @scenario scenario
      * @case case2
      *

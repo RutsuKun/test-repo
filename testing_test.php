@@ -2,15 +2,15 @@ class TestingTest
 {
 
     /**
-     * @feature testing2
+     * @feature testing2-edited
      * @scenario Testing Test Scenario 1
      * @case Get Testing Test 3
      *
-     * @feature testing2
+     * @feature testing2-edited
      * @scenario Testing Test Scenario 1
      * @case Get Testing Test 1
      *
-     * @feature testing2
+     * @feature testing2-edited
      * @scenario Testing Test Scenario 1
      * @case Get Testing Test 2
      *
@@ -27,7 +27,7 @@ class TestingTest
     }
 
     /**
-     * @feature teraz oznaczony
+     * @feature teraz oznaczony-edited
      * @scenario dwa
      * @case trzy
      *
@@ -39,7 +39,7 @@ class TestingTest
     }
 
     /**
-     * @feature Testing Test
+     * @feature Testing Test-edited
      * @scenario Testing Test Scenario 2
      * @case Get Testing Test 4
      *
@@ -51,7 +51,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa
+     * @feature aaa-edited
      * @scenario 2222
      * @case 3333
      *
@@ -70,7 +70,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa
+     * @feature aaa-edited
      * @scenario 123414314
      * @case 345345643
      *
@@ -93,7 +93,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa
+     * @feature aaa-edited
      * @scenario 222
      * @case 333
      *

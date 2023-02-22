@@ -1,7 +1,7 @@
 {
 
     /**
-     * @feature aaa
+     * @feature aaa-edited
      * @scenario 222
      * @case 333
      *
@@ -23,7 +23,7 @@
     }
 
     /**
-     * @feature vvwrwrgwgwrg
+     * @feature vvwrwrgwgwrg-edited
      * @scenario qgqrgqrgqrgrg
      * @case qrgqrgqrgqrgg ttt
      *
@@ -46,7 +46,7 @@
     }
 
     /**
-     * @feature aaa
+     * @feature aaa-edited
      * @scenario scenario
      * @case case
      *

@@ -2,25 +2,25 @@ class Testing
 {
 
     /**
-     * @feature TestujeNowyFiczer
-     * @scenario ScenariuszNowegoFiczera
-     * @case KejsScenariuszaNowegoFiczera
-     *
-     * @feature Testing Feature
-     * @scenario Testing Scenario
-     * @case Get Testing
-     *
-     * @feature Testing Feature
-     * @scenario Testing Scenario
-     * @case a
-     *
-     * @feature ABC-TEST-DEF
+     * @feature ABC-TEST-DEF-edited
      * @scenario TEMPORARY
      * @case TEST456
      *
-     * @feature ABC-TEST-DEF
+     * @feature ABC-TEST-DEF-edited
      * @scenario TEST
      * @case TEST123
+     *
+     * @feature TestujeNowyFiczer-edited
+     * @scenario ScenariuszNowegoFiczera
+     * @case KejsScenariuszaNowegoFiczera
+     *
+     * @feature Testing Feature-edited
+     * @scenario Testing Scenario
+     * @case Get Testing
+     *
+     * @feature Testing Feature-edited
+     * @scenario Testing Scenario
+     * @case a
      *
      * @suite cztery
      * @suite tet testing
@@ -35,13 +35,13 @@ class Testing
     }
 
     /**
-     * @feature testing
-     * @scenario test scenario
-     * @case Get Test
-     *
-     * @feature testing2
+     * @feature testing2-edited
      * @scenario test scenario2
      * @case Get Test2
+     *
+     * @feature testing-edited
+     * @scenario test scenario
+     * @case Get Test
      *
      * @suite nowy do testing
      * @test
@@ -52,43 +52,43 @@ class Testing
     }
 
     /**
-     * @feature aaa
-     * @scenario 222
-     * @case e
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case a
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case c
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature aaa
-     * @scenario 222
-     * @case b
-     *
-     * @feature aaa
-     * @scenario 555
-     * @case d
-     *
-     * @feature aaa
-     * @scenario 555
-     * @case f
-     *
-     * @feature aaa
+     * @feature aaa-edited
      * @scenario 555
      * @case g
      *
-     * @feature aaa
+     * @feature aaa-edited
+     * @scenario 555
+     * @case f
+     *
+     * @feature aaa-edited
+     * @scenario 555
+     * @case d
+     *
+     * @feature aaa-edited
+     * @scenario 222
+     * @case ddddd
+     *
+     * @feature aaa-edited
+     * @scenario 222
+     * @case ddddd
+     *
+     * @feature aaa-edited
+     * @scenario 222
+     * @case a
+     *
+     * @feature aaa-edited
+     * @scenario 222
+     * @case c
+     *
+     * @feature aaa-edited
+     * @scenario 222
+     * @case e
+     *
+     * @feature aaa-edited
+     * @scenario 222
+     * @case b
+     *
+     * @feature aaa-edited
      * @scenario edited-abc
      * @case aaa-case-edited
      *
@@ -101,7 +101,7 @@ class Testing
     }
 
     /**
-     * @feature aaa
+     * @feature aaa-edited
      * @scenario 222
      * @case 333
      *
