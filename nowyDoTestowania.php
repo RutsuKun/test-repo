@@ -7,29 +7,29 @@ class SuperTestsWithDataProviders extends TestCase
 {
 
     /**
+     * @feature aaa
+     * @scenario aaa
+     * @case aaa
+     *
+     * @feature aaa
+     * @scenario aaa
+     * @case aaa
+     *
+     * @feature aaa
+     * @scenario aaa
+     * @case aaa
+     *
+     * @feature aaa
+     * @scenario aaa
+     * @case aaa
+     *
      * @feature Feature with data providers
-     * @scenario yaaaaaaaaaaaaaaaaa edited
+     * @scenario yaaaaaaaaaaaaaaaaa
      * @case yoooooooooooooooo dgwrgwrgrggr
      *
      * @feature Feature with data providers
      * @scenario 1 scenario with data providers
      * @case 1 case with data provider
-     *
-     * @feature aaa
-     * @scenario aaa
-     * @case aaa
-     *
-     * @feature aaa
-     * @scenario aaa
-     * @case aaa
-     *
-     * @feature aaa
-     * @scenario aaa
-     * @case aaa
-     *
-     * @feature aaa
-     * @scenario aaa
-     * @case aaa
      *
      * @suite egegrgwgwrgrwg
      * @suite yeeeeeeeeeeeeeee
@@ -48,7 +48,7 @@ class SuperTestsWithDataProviders extends TestCase
 
     /**
      * @feature Feature with data providers
-     * @scenario yaaaaaaaaaaaaaaaaa-edited
+     * @scenario yaaaaaaaaaaaaaaaaa
      * @case yooooooooooooooooo
      *
      * @suite yeeeeeeeeeeeeeee

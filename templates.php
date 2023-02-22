@@ -23,8 +23,8 @@
     }
 
     /**
-     * @feature vvwrwrgwgwrg ttt
-     * @scenario qgqrgqrgqrgrg tttt
+     * @feature vvwrwrgwgwrg
+     * @scenario qgqrgqrgqrgrg
      * @case qrgqrgqrgqrgg ttt
      *
      * @suite wfwgwrg tttt

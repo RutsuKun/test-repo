@@ -47,7 +47,7 @@ class Test extends TestCase
 
     /**
      * @feature Super Test
-     * @scenario Test Scenario 4ethehtehteh
+     * @scenario Test Scenario 4
      * @case Get Test 4ehtehehthe
      *
      * @test
@@ -106,16 +106,16 @@ class Test extends TestCase
     }
 
     /**
-     * @feature Feature 3-editedddd
-     * @scenario Scenario 3-editedddd
-     * @case Case 3-editedddd
-     *
-     * @feature Feature 2-editedddd
-     * @scenario Scenario 2-editedddd
+     * @feature Feature 2
+     * @scenario Scenario 2
      * @case Case 2-editedddd
      *
-     * @feature Feature 1-editeddddd
-     * @scenario Scenario 1-editedddd
+     * @feature Feature 3
+     * @scenario Scenario 3
+     * @case Case 3-editedddd
+     *
+     * @feature Feature 1
+     * @scenario Scenario 1
      * @case Case 1-editeddddd
      *
      * @suite jeden-edited

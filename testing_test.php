@@ -39,9 +39,10 @@ class TestingTest
     }
 
     /**
-     * @feature Testing Test changed
+     * @feature Testing Test
      * @scenario Testing Test Scenario 2
      * @case Get Testing Test 4
+     *
      * @test
      */
     public function testing_test_three()

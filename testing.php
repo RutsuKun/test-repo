@@ -35,7 +35,7 @@ class Testing
     }
 
     /**
-     * @feature testing-edited
+     * @feature testing
      * @scenario test scenario
      * @case Get Test
      *
