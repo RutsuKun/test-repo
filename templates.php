@@ -1,7 +1,7 @@
 {
 
     /**
-     * @feature aaa-edited
+     * @feature aaa-edited 2
      * @scenario 222
      * @case 333
      *
@@ -46,7 +46,7 @@
     }
 
     /**
-     * @feature aaa-edited
+     * @feature aaa-edited 2
      * @scenario scenario
      * @case case
      *

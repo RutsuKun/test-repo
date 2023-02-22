@@ -51,7 +51,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa-edited
+     * @feature aaa-edited 2
      * @scenario 2222
      * @case 3333
      *
@@ -70,7 +70,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa-edited
+     * @feature aaa-edited 2
      * @scenario 123414314
      * @case 345345643
      *
@@ -93,7 +93,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa-edited
+     * @feature aaa-edited 2
      * @scenario 222
      * @case 333
      *

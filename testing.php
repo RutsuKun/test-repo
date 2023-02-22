@@ -52,45 +52,45 @@ class Testing
     }
 
     /**
-     * @feature aaa-edited
-     * @scenario 555
-     * @case g
+     * @feature aaa-edited 2
+     * @scenario edited-abc
+     * @case aaa-case-edited
      *
-     * @feature aaa-edited
-     * @scenario 555
-     * @case f
-     *
-     * @feature aaa-edited
-     * @scenario 555
-     * @case d
-     *
-     * @feature aaa-edited
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature aaa-edited
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature aaa-edited
+     * @feature aaa-edited 2
      * @scenario 222
      * @case a
      *
-     * @feature aaa-edited
-     * @scenario 222
-     * @case c
-     *
-     * @feature aaa-edited
+     * @feature aaa-edited 2
      * @scenario 222
      * @case e
      *
-     * @feature aaa-edited
+     * @feature aaa-edited 2
+     * @scenario 222
+     * @case c
+     *
+     * @feature aaa-edited 2
      * @scenario 222
      * @case b
      *
-     * @feature aaa-edited
-     * @scenario edited-abc
-     * @case aaa-case-edited
+     * @feature aaa-edited 2
+     * @scenario 222
+     * @case ddddd
+     *
+     * @feature aaa-edited 2
+     * @scenario 222
+     * @case ddddd
+     *
+     * @feature aaa-edited 2
+     * @scenario 555
+     * @case g
+     *
+     * @feature aaa-edited 2
+     * @scenario 555
+     * @case f
+     *
+     * @feature aaa-edited 2
+     * @scenario 555
+     * @case d
      *
      * @suite ssssssssssssssuite
      * @test
@@ -101,7 +101,7 @@ class Testing
     }
 
     /**
-     * @feature aaa-edited
+     * @feature aaa-edited 2
      * @scenario 222
      * @case 333
      *
