@@ -2,7 +2,7 @@
 
     /**
      * @feature aaa-edited 2
-     * @scenario 222
+     * @scenario Export B
      * @case 333
      *
      * @expectation none

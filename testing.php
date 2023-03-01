@@ -53,32 +53,12 @@ class Testing
 
     /**
      * @feature aaa-edited 2
-     * @scenario edited-abc
+     * @scenario edited-abcde
      * @case aaa-case-edited
      *
      * @feature aaa-edited 2
-     * @scenario 222
-     * @case a
-     *
-     * @feature aaa-edited 2
-     * @scenario 222
-     * @case e
-     *
-     * @feature aaa-edited 2
-     * @scenario 222
-     * @case c
-     *
-     * @feature aaa-edited 2
-     * @scenario 222
-     * @case b
-     *
-     * @feature aaa-edited 2
-     * @scenario 222
-     * @case ddddd
-     *
-     * @feature aaa-edited 2
-     * @scenario 222
-     * @case ddddd
+     * @scenario 555
+     * @case d
      *
      * @feature aaa-edited 2
      * @scenario 555
@@ -89,8 +69,28 @@ class Testing
      * @case f
      *
      * @feature aaa-edited 2
-     * @scenario 555
-     * @case d
+     * @scenario Export B
+     * @case ddddd
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case ddddd
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case e
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case c
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case b
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case a
      *
      * @suite ssssssssssssssuite
      * @test
@@ -102,7 +102,7 @@ class Testing
 
     /**
      * @feature aaa-edited 2
-     * @scenario 222
+     * @scenario Export B
      * @case 333
      *
      * @expectation edited

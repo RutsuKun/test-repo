@@ -52,7 +52,7 @@ class TestingTest
 
     /**
      * @feature aaa-edited 2
-     * @scenario 2222
+     * @scenario Export C
      * @case 3333
      *
      * @description 4444
@@ -71,7 +71,7 @@ class TestingTest
 
     /**
      * @feature aaa-edited 2
-     * @scenario 123414314
+     * @scenario Export A
      * @case 345345643
      *
      * @suite suite templatka
@@ -94,7 +94,7 @@ class TestingTest
 
     /**
      * @feature aaa-edited 2
-     * @scenario 222
+     * @scenario Export B
      * @case 333
      *
      * @expectation nothing
