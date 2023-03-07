@@ -51,7 +51,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export C
      * @case 3333
      *
@@ -70,7 +70,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export A
      * @case 345345643
      *
@@ -93,7 +93,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export B
      * @case 333
      *

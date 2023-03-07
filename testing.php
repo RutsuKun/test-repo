@@ -52,45 +52,45 @@ class Testing
     }
 
     /**
-     * @feature aaa-edited 2
-     * @scenario Export B
-     * @case b
-     *
-     * @feature aaa-edited 2
-     * @scenario Export B
-     * @case e
-     *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export B
      * @case c
      *
-     * @feature aaa-edited 2
+     * @feature aaa
+     * @scenario Export B
+     * @case e
+     *
+     * @feature aaa
      * @scenario Export B
      * @case ddddd
      *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export B
      * @case ddddd
      *
-     * @feature aaa-edited 2
+     * @feature aaa
+     * @scenario Export B
+     * @case b
+     *
+     * @feature aaa
      * @scenario Export B
      * @case a
      *
-     * @feature aaa-edited 2
-     * @scenario Import A
-     * @case aaa-case-edited
-     *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export D
-     * @case d
+     * @case f
      *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export D
      * @case g
      *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export D
-     * @case f
+     * @case d
+     *
+     * @feature aaa
+     * @scenario Import A
+     * @case aaa-case-edited
      *
      * @feature dthdhdtjdyjdnndt
      * @scenario dtndtdntdntdtn
@@ -121,7 +121,7 @@ class Testing
     }
 
     /**
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export B
      * @case 333
      *

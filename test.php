@@ -131,7 +131,7 @@ class Test extends TestCase
     }
 
     /**
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Import B
      * @case case2
      *

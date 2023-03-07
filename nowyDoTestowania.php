@@ -15,19 +15,19 @@ class SuperTestsWithDataProviders extends TestCase
      * @scenario 1 scenario with data providers
      * @case 1 case with data provider
      *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export E
      * @case aaa
      *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export E
      * @case aaa
      *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export E
      * @case aaa
      *
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export E
      * @case aaa
      *

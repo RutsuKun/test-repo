@@ -1,7 +1,7 @@
 {
 
     /**
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Export B
      * @case 333
      *
@@ -46,7 +46,7 @@
     }
 
     /**
-     * @feature aaa-edited 2
+     * @feature aaa
      * @scenario Import B
      * @case case
      *
