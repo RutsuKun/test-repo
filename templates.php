@@ -47,7 +47,7 @@
 
     /**
      * @feature aaa-edited 2
-     * @scenario Inport B
+     * @scenario Import B
      * @case case
      *
      * @suite new suite

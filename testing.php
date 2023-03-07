@@ -53,6 +53,34 @@ class Testing
 
     /**
      * @feature aaa-edited 2
+     * @scenario Export B
+     * @case b
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case e
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case c
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case ddddd
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case ddddd
+     *
+     * @feature aaa-edited 2
+     * @scenario Export B
+     * @case a
+     *
+     * @feature aaa-edited 2
+     * @scenario Import A
+     * @case aaa-case-edited
+     *
+     * @feature aaa-edited 2
      * @scenario Export D
      * @case d
      *
@@ -63,34 +91,6 @@ class Testing
      * @feature aaa-edited 2
      * @scenario Export D
      * @case f
-     *
-     * @feature aaa-edited 2
-     * @scenario Inport A
-     * @case aaa-case-edited
-     *
-     * @feature aaa-edited 2
-     * @scenario Export B
-     * @case b
-     *
-     * @feature aaa-edited 2
-     * @scenario Export B
-     * @case a
-     *
-     * @feature aaa-edited 2
-     * @scenario Export B
-     * @case ddddd
-     *
-     * @feature aaa-edited 2
-     * @scenario Export B
-     * @case ddddd
-     *
-     * @feature aaa-edited 2
-     * @scenario Export B
-     * @case c
-     *
-     * @feature aaa-edited 2
-     * @scenario Export B
-     * @case e
      *
      * @feature dthdhdtjdyjdnndt
      * @scenario dtndtdntdntdtn
