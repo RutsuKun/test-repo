@@ -51,7 +51,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa
+     * @feature bbb
      * @scenario Export C
      * @case 3333
      *
@@ -70,9 +70,9 @@ class TestingTest
     }
 
     /**
-     * @feature aaa
-     * @scenario Export A
-     * @case 345345643
+     * @feature bbb
+     * @scenario Export AA
+     * @case 3453456434
      *
      * @suite suite templatka
      * @expectation stare expectation
@@ -93,7 +93,7 @@ class TestingTest
     }
 
     /**
-     * @feature aaa
+     * @feature bbb
      * @scenario Export B
      * @case 333
      *
